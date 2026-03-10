@@ -1,2 +1,16 @@
-# ai-code-visualizer
-AI powered system to convert source code into visual execution flow using AST and control flow graphs.
+# AI Code Visualizer
+
+AI powered system that converts source code into visual representations.
+
+Features:
+- Abstract Syntax Tree generation
+- Control Flow Graph visualization
+- Step-by-step execution tracing
+- AI based explanation of code
+- Time complexity prediction
+
+Tech Stack:
+Python
+JavaScript
+Machine Learning
+Graph Visualization
